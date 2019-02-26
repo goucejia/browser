@@ -2,8 +2,6 @@
 
 *date: 10/17/2016*
 
-*name: Brent Higgins, Garrett Sundin, Yu Fang*
-
 
 ####**HOW TO COMPILE OUR PROJECT:**
 1). Navigate to the folder containing the files and make this project to create executable `browser`.
